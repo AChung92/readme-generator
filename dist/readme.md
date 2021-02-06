@@ -1,9 +1,9 @@
-# alex
+# Task
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-mia
+Organize
 
 ## Table of Contents 
 
@@ -24,12 +24,12 @@ mia
 To install necessary dependencies, run the following command:
 
 ```
-mia
+fun
 ```
 
 ## Usage
 
-mia
+yes
 
 ## License
 
@@ -37,17 +37,17 @@ This project is licensed under the MIT license.
   
 ## Contributing
 
-mia
+no
 
 ## Tests
 
 To run tests, run the following command:
 
 ```
-mia
+npm test
 ```
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at alex. You can find more of my work at [alex](https://github.com/alex/).
+If you have any questions about the repo, open an issue or contact me directly at alex.chung92@gmail.com. You can find more of my work at [achung92](https://github.com/achung92/).
 
