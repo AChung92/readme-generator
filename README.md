@@ -1,53 +1,26 @@
-# alex
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# Readme Generator
+Application that generates a readme
 
-## Description
+## Table of Contents
+* Overview
+* Technologies
+* Status
+* Screenshot
 
-mia
 
-## Table of Contents 
+## Overview
+This is an assignment using Node and JS. The goal of the assignment is to create an app that auto generates a readme file for the user. The below link will guide the user how to use the application.
 
-* [Installation](#installation)
+## Technologies
+Project created with:
+* Node
+* JS
 
-* [Usage](#usage)
+## Status
+To view a user guide of my project please visit the below.
 
-* [License](#license)
+[Readme Generator Guide](https://drive.google.com/file/d/1AFC-VhcLg0qm7maXFATtyytzYIfhU3j7/view)
 
-* [Contributing](#contributing)
+## Screenshot
 
-* [Tests](#tests)
-
-* [Questions](#questions)
-
-## Installation
-
-To install necessary dependencies, run the following command:
-
-```
-mia
-```
-
-## Usage
-
-mia
-
-## License
-
-This project is licensed under the MIT license.
-  
-## Contributing
-
-mia
-
-## Tests
-
-To run tests, run the following command:
-
-```
-mia
-```
-
-## Questions
-
-If you have any questions about the repo, open an issue or contact me directly at alex. You can find more of my work at [alex](https://github.com/alex/).
-
+![screenshot](assets/images/example.png)

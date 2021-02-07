@@ -1,9 +1,9 @@
-# Task
+# Taskinator
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-Organize
+Organization application
 
 ## Table of Contents 
 
@@ -24,12 +24,12 @@ Organize
 To install necessary dependencies, run the following command:
 
 ```
-fun
+npm i
 ```
 
 ## Usage
 
-yes
+It is fun to use
 
 ## License
 
@@ -37,7 +37,7 @@ This project is licensed under the MIT license.
   
 ## Contributing
 
-no
+Highlighted in readme
 
 ## Tests
 
@@ -49,5 +49,5 @@ npm test
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at alex.chung92@gmail.com. You can find more of my work at [achung92](https://github.com/achung92/).
+If you have any questions about the repo, open an issue or contact me directly at alex.chung92@gmail.com. You can find more of my work at [AChung92](https://github.com/AChung92/).
 
